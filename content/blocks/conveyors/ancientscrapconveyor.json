@@ -1,0 +1,15 @@
+{
+	"name": "[grey]Ancient Scrap Conveyor",
+	"type": "Conveyor",
+	"description": "The trashiest conveyor you have ever seen",
+	"category": "distribution",
+	"buildVisibility": "shown",
+	"health": 1,
+	"speed": 0.04,
+	"breakable": true,
+	"research": "ancientscrap"
+	"requirements": [
+	"ancientscrap/1"
+	]
+}
+
