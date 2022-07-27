@@ -1,0 +1,1 @@
+require('campgaign/wisa')
