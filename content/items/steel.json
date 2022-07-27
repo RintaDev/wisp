@@ -1,0 +1,7 @@
+{
+	"name": "[grey]Steel",
+	"description": "A [grey]Metal[white] made from extracting the essence of [grey]Ancient Scrap",
+	"color": "999999",
+	"hardness": 1,
+	"research": "ancientscrap",
+}

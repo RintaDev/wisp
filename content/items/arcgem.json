@@ -1,0 +1,13 @@
+{
+	"name": "[purple]Arcane Gem",
+	"description": "a mystical stone that powers [purple]arcane magic",
+	"color": "a832ec",
+	"hardness": 1,
+	"flammability": 0.1,
+	"explosiveness": 1,
+	"radioactivity": 0.35,
+	"charge": 0.5,
+	"research": {
+	"parent": "emptygem",
+  }
+}

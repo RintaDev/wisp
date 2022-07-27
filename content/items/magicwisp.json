@@ -1,0 +1,13 @@
+{
+	"name": "[pink]Wisp of Magic",
+	"description": "A fading remnant of the age of [purple]magic[white], extracted from ruins with the [purple]wisp extractor",
+	"color": "be58f9",
+	"hardness": 4,
+	"flammability": 0.4,
+	"explosiveness": 1,
+	"radioactivity": 0.2,
+	"charge": 0.1,
+	"research": {
+	"parent": "emptygem"
+}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "[grey]Ancient Scrap",
+	"description": "A material found on the planet [pink]Wisa[white]. Said to have been left behind by an ancient, magical civilization that once inhabited the planet.",
+	"color": "706b5d",
+	"hardness": 1,
+	"research": {
+	"root": true,
+	"name": "Wisa",
+	}
+	"alwaysUnlocked": true,
+}

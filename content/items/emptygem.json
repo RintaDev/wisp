@@ -1,0 +1,13 @@
+{
+	"name": "[grey]Empty Gem",
+	"description": "a [grey]crystal[white] that can be infused with [purple]arcane[white] and [red]inferno energy",
+	"color": "838383",
+	"hardness": 1,
+	"flammability": 0,
+	"explosiveness": 0,
+	"radioactivity": 0,
+	"charge": 0,
+	"research": {
+	"parent": "gemrefiner"
+}
+}
