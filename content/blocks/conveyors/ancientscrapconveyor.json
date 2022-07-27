@@ -8,6 +8,7 @@
 	"speed": 0.04,
 	"breakable": true,
 	"research": "ancientscrap"
+	"alwaysUnlocked": true,
 	"requirements": [
 	"ancientscrap/1"
 	]
