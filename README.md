@@ -3,7 +3,7 @@ A  mindustry mod that adds a new planet, tech tree, and a load of more stuff
 PLEASE NOTE
 IN DEVELOPMENT
 IF YOU HAVE ANY ISSUES OR SUGGESTIONS POST IT IN ISSUES
-Anyways, here is an explanation of the items im the mod so far.
+Anyways, here is my to do list.
 
 ==TO DO==
 -Add a custom unit factory with all types of units.
