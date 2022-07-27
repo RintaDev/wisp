@@ -1,1 +1,1 @@
-require('campgaign/wisa');
+require('campaign/wisa');
