@@ -1,0 +1,10 @@
+{
+	"name": "[grey]Ancient Scrap",
+	"type": "OreBlock",
+	"description": "[grey]Scrap[white] said to have been left behind by an ancient civilization",
+	"variants": 3,
+	"itemDrop": "ancientscrap",
+	"oreDefault": true,
+	"oreScale": 25,
+	"oreThreshold": 0.86,
+}

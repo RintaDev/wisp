@@ -1,0 +1,23 @@
+{
+	"name": "[purple]Arcane Generator",
+	"type": "ConsumeGenerator",
+	"category": "power",
+	"description": "A generator that feeds off of [purple]Arcane Gems",
+	"size": 2,
+	"health": 325,
+	"hasPower": true,
+	"itemDuration": 200,
+	"powerProduction": 5,
+	"buildVisibility": "shown",
+	"research": {
+	"parent": "arcinfuser",
+	"requirements": [
+	"arcgem/250"
+	"steel/1000"
+  ]
+  },
+	"requirements": [
+    "arcgem/50"
+    "steel/50"
+	]
+}

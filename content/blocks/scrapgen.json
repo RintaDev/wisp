@@ -1,0 +1,23 @@
+{
+	"name": "[grey]Scrap Generator",
+	"type": "ConsumeGenerator",
+	"category": "power",
+	"description": "A generator that feeds off of [grey]Ancient Scrap",
+	"size": 2,
+	"health": 200,
+	"hasPower": true,
+	"itemDuration": 100,
+    "consumes": {
+    "items": [
+	"ancientscrap/1"
+	]
+	}
+	"powerProduction": 0.75,
+	"buildVisibility": "shown",
+	"research": {
+	"parent": "ancientscrap",
+    },
+	"requirements": [
+    "ancientscrap/13"
+	]
+}

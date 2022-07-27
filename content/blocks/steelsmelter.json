@@ -1,0 +1,31 @@
+{
+	"name": "[grey]Steel Smelter",
+	"type": "GenericCrafter",
+	"category": "crafting",
+	"description": "A machine that smelts [grey]Ancient Scrap[white] into [grey]Steel",
+	"destructible": true,
+	"size": 2,
+	"health": 250,
+	"hasPower": true,
+	"outputItem": "steel/1",
+	"craftEffect": "generatespark",
+	"craftTime": 90,
+	"buildVisibility": "shown",
+	"consumes": {
+	 "power": 0.25,
+	 "items": {
+	    "items": [
+	      "ancientscrap/2"
+	]
+	}
+	},
+	"research": {
+    "parent": "scrapdrill",
+    "requirements": [
+    "ancientscrap/150"
+    ]
+    }
+	"requirements": [
+	"ancientscrap/25"
+	]
+}

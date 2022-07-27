@@ -1,0 +1,25 @@
+{
+	"name": "[purple]Arcane Shield",
+	"type": "ForceProjector",
+	"description": "A [purple]Arcane Gem[white] powered force field generator",
+	"category": "defense",
+	"buildVisibility": "shown",
+	"health": 750,
+	"size": 1,
+	"breakable": true,
+	"phaseRadiusBoost": 100,
+	"radius": 200,
+	"cooldownNormal": 5,
+	"research": {
+	"parent": "arcwall",
+	"requirements": [
+	"steel/1200"
+	"arcgem/500"
+  ]
+  },
+	"requirements": [
+	"steel/50"
+	"arcgem/50"
+	]
+}
+

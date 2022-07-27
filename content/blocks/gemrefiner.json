@@ -1,0 +1,31 @@
+{
+	"name": "[grey]Gem Refiner",
+	"type": "GenericCrafter",
+	"category": "crafting",
+	"description": "A factory that refines [grey]Ancient Scrap[white] into [grey]Empty Gems",
+	"destructible": true,
+	"size": 2,
+	"health": 250,
+	"hasPower": true,
+	"outputItem": "emptygem/1",
+	"craftEffect": "generatespark",
+	"craftTime": 100,
+	"buildVisibility": "shown",
+	"consumes": {
+	 "power": 1,
+	 "items": {
+	    "items": [
+	      "ancientscrap/2"
+	]
+	}
+	},
+	"research": {
+    "parent": "ancientscrap",
+    "requirements": [
+    "steel/150"
+    ]
+    }
+	"requirements": [
+	"steel/45"
+	]
+}

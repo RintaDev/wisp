@@ -1,0 +1,39 @@
+{
+	"name": "[purple]Arcane Wisp Launcher",
+	"type": "ItemTurret",
+	"description": "Turret using [purple]Arcane Gems[white] to fire pure [pink]Wisps of Magic[white] or [purple]Arcane Gems",
+	"category": "turret",
+	"rotateSpeed": 130,
+	"range": 160,
+	"liquidCapacity": 30,
+	"itemCapacity": 15,
+	"ammoTypes": {
+	   "magicwisp": {
+	    "type": "MissileBulletType",
+	    "damage": 3,
+	    "trailColor": "c674ff",
+	    "lifetime": 300
+	  },
+	  "arcgem": {
+	    "type": "MissileBulletType",
+	    "damage": 5,
+	    "trailColor": "9600ff",
+	    "lifetime": 300
+	  }
+	},
+	"buildVisibility": "shown",
+	"health": 500,
+	"breakable": true,
+	"research": {
+	"parent": "arcinfuser",
+	"requirements": [
+	"arcgem/250"
+	"steel/1000"
+  ]
+  },
+	"requirements": [
+	"steel/50"
+	"arcgem/45"
+	]
+}
+

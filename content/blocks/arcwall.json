@@ -1,0 +1,23 @@
+{
+	"name": "[purple]Arcane Wall",
+	"type": "Wall",
+	"description": "Wall infused with [purple]Arcane Gems",
+	"category": "defense",
+	"lightningChance": 0.075,
+	"lightningDamage": 10,
+	"lightningLength": 25,
+	"buildVisibility": "shown",
+	"health": 300,
+	"breakable": true,
+	"research": {
+	"parent": "arcinfuser",
+	"requirements": [
+	"arcgem/25"
+  ]
+  },
+	"requirements": [
+	"ancientscrap/5"
+	"arcgem/2"
+	]
+}
+

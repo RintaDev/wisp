@@ -1,0 +1,10 @@
+{
+	"name": "[pink]Magic Ruins",
+	"type": "OreBlock",
+	"description": "[white]Ruins that can have [pink]Wisps of Magic[white]extracted from them with a [purple]Wisp Extractor",
+	"variants": 6,
+	"itemDrop": "magicwisp",
+	"oreDefault": true,
+	"oreScale": 23,
+	"oreThreshold": 0.89,
+}
