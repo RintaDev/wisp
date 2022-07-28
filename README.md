@@ -35,4 +35,4 @@ Units will be:
 -Add a core that can be built by the player (maybe)
 -Add a zone on serpulo that can be used to get all these items on serpulo, 
 making them accessible in the rest of the campaign. 
- 
+-Add a zone on erekir as well
