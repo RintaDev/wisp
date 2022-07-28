@@ -1,0 +1,24 @@
+{
+	"name": "[grey]Trash Launcher",
+	"type": "ItemTurret",
+	"description": "Turret that literally launches fricking trash ([grey]Ancient Scrap[white])",
+	"category": "turret",
+	"rotateSpeed": 35,
+	"range": 100,
+	"liquidCapacity": 30,
+	"itemCapacity": 15,
+	"ammoTypes": {
+	   "ancientscrap": {
+	    "type": "standardCopper",
+	  },
+	},
+	"buildVisibility": "shown",
+	"health": 350,
+	"breakable": true,
+	"research": "ancientscrap"
+	"alwaysUnlocked": true,
+	"requirements": [
+	"ancientscrap/32"
+	]
+}
+

@@ -1,0 +1,19 @@
+{
+	"name": "[grey]Ancient Scrap Wall",
+	"type": "Wall",
+	"description": "A wall that was made out of whatever you found on the ground",
+	"category": "defense",
+	"buildVisibility": "shown",
+	"health": 100,
+	"breakable": true,
+	"research": {
+	"parent": "ancientscrap",
+	"requirements": [
+	"ancientscrap/210"
+  ]
+  },
+	"requirements": [
+	"ancientscrap/5"
+	]
+}
+

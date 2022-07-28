@@ -12,7 +12,7 @@
 	    "type": "MissileBulletType",
 	    "damage": 3,
 	    "trailColor": "c674ff",
-	    "lifetime": 300
+	    "lifetime": 200
 	  },
 	  "arcgem": {
 	    "type": "MissileBulletType",

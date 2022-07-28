@@ -7,7 +7,7 @@
 	"lightningDamage": 10,
 	"lightningLength": 25,
 	"buildVisibility": "shown",
-	"health": 300,
+	"health": 260,
 	"breakable": true,
 	"research": {
 	"parent": "arcinfuser",

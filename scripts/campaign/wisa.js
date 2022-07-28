@@ -303,7 +303,7 @@ wisa.atmosphereRadOut = 0.25;
 wisa.atmosphereRadIn = 0.05;
 wisa.hiddenItems.addAll(Items.erekirItems).addAll(Items.serpuloItems);
 wisa.atmosphereColor = Color.valueOf("f3a8ff");
-const ruins = new SectorPreset("ruins", wisa, 15);
+const ruins = new SectorPreset("test", wisa, 15);
 ruins.difficulty = 7;
 ruins.captureWave = 40;
 ruins.localizedName = "The Ruins";
