@@ -1,0 +1,21 @@
+{
+	"name": "[grey]Scrap Node",
+	"type": "PowerNode",
+	"description": "Weak power node made out of random stuff",
+	"category": "power",
+	"buildVisibility": "shown",
+	"health": 50,
+	"breakable": true,
+	"laserRange": 7,
+	"maxNodes": 6,
+	"research": {
+	"parent": "scrapgen",
+	"requirements": [
+	"ancientscrap/280"
+  ]
+  },
+	"requirements": [
+	"ancientscrap/7"
+	]
+}
+

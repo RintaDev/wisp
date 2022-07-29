@@ -10,12 +10,13 @@
 	"ammoTypes": {
 	   "ancientscrap": {
 	    "type": "standardCopper",
+		"damage": 13,
 	  },
 	},
 	"buildVisibility": "shown",
-	"health": 350,
+	"health": 230,
 	"breakable": true,
-	"research": "ancientscrap"
+	"research": "coreRemnant"
 	"alwaysUnlocked": true,
 	"requirements": [
 	"ancientscrap/32"

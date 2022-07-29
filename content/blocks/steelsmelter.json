@@ -20,7 +20,7 @@
 	}
 	},
 	"research": {
-    "parent": "scrapdrill",
+    "parent": "coreRemnant",
     "requirements": [
     "ancientscrap/150"
     ]

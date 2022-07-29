@@ -10,10 +10,10 @@
 	"powerProduction": 5,
 	"buildVisibility": "shown",
 	"research": {
-	"parent": "arcinfuser",
+	"parent": "scrapgen",
 	"requirements": [
 	"arcgem/250"
-	"steel/1000"
+	"steel/600"
   ]
   },
 	"requirements": [

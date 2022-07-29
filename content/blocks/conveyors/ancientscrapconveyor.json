@@ -7,7 +7,7 @@
 	"health": 1,
 	"speed": 0.04,
 	"breakable": true,
-	"research": "ancientscrap"
+	"research": "coreRemnant"
 	"alwaysUnlocked": true,
 	"requirements": [
 	"ancientscrap/1"

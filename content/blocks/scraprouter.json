@@ -1,0 +1,15 @@
+{
+	"name": "[grey]Ancient Scrap Router",
+	"type": "Router",
+	"description": "A router, just made with scrap",
+	"category": "distribution",
+	"buildVisibility": "shown",
+	"health": 3,
+	"breakable": true,
+	"research": "ancientscrapconveyor"
+	"alwaysUnlocked": true,
+	"requirements": [
+	"ancientscrap/2"
+	]
+}
+

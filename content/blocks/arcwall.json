@@ -10,13 +10,14 @@
 	"health": 260,
 	"breakable": true,
 	"research": {
-	"parent": "arcinfuser",
+	"parent": "scrapwall",
 	"requirements": [
-	"arcgem/25"
+	"arcgem/1"
+	"steel/1"
   ]
   },
 	"requirements": [
-	"ancientscrap/5"
+	"steel/5"
 	"arcgem/2"
 	]
 }

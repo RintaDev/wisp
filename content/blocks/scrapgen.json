@@ -15,7 +15,10 @@
 	"powerProduction": 0.75,
 	"buildVisibility": "shown",
 	"research": {
-	"parent": "ancientscrap",
+	"parent": "coreRemnant",
+	"requirements": [
+    "ancientscrap/400"
+	]
     },
 	"requirements": [
     "ancientscrap/13"

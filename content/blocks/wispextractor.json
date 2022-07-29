@@ -15,7 +15,7 @@
 	 "power": 1
  	},
 	"research": {
-	"parent": "gemrefiner",
+	"parent": "scrapdrill",
 	"requirements": [
 	"emptygem/100"
 	"steel/250"

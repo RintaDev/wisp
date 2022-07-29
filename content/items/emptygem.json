@@ -8,6 +8,6 @@
 	"radioactivity": 0,
 	"charge": 0,
 	"research": {
-	"parent": "gemrefiner"
+	"parent": "ancientscrap"
 }
 }

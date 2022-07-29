@@ -1,0 +1,22 @@
+{
+	"name": "[grey]Core: Remnant",
+	"type": "CoreBlock",
+	"description": "The last remnant of the once mighty Empire of Wisa",
+	"category": "effect",
+	"buildVisibility": "shown",
+	"itemCapacity": 4500,
+	"size": 4,
+	"health": 5000,
+	"breakable": true,
+	"alwaysUnlocked": true
+	"research": {
+	"name": "Wisa"
+	"root": true,
+    },
+    "requirements": [
+	"steel/2500"
+	"arcgem/1300"
+	"magicwisp/2400"
+	]
+}
+

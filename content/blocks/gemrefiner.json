@@ -20,7 +20,7 @@
 	}
 	},
 	"research": {
-    "parent": "ancientscrap",
+    "parent": "steelsmelter",
     "requirements": [
     "steel/150"
     ]

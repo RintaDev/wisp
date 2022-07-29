@@ -13,7 +13,7 @@
 	"research": {
 	"parent": "arcwall",
 	"requirements": [
-	"steel/1200"
+	"steel/750"
 	"arcgem/500"
   ]
   },

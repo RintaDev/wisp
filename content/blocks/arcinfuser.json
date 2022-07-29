@@ -25,9 +25,11 @@
 	"requirements": [
 	"emptygem/250"
 	"magicwisp/100"
+	"steel/250"
   ]
   },
 	"requirements": [
+	"emptygem/25"
 	"steel/25"
 	"magicwisp/50"
 	]

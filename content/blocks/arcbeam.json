@@ -10,25 +10,25 @@
 	"ammoTypes": {
 	   "magicwisp": {
 	    "type": "MissileBulletType",
-	    "damage": 3,
+	    "damage": 23,
 	    "trailColor": "c674ff",
 	    "lifetime": 200
 	  },
 	  "arcgem": {
 	    "type": "MissileBulletType",
-	    "damage": 5,
+	    "damage": 29,
 	    "trailColor": "9600ff",
 	    "lifetime": 300
 	  }
 	},
 	"buildVisibility": "shown",
-	"health": 500,
+	"health": 350,
 	"breakable": true,
 	"research": {
-	"parent": "arcinfuser",
+	"parent": "trashlauncher",
 	"requirements": [
 	"arcgem/250"
-	"steel/1000"
+	"steel/500"
   ]
   },
 	"requirements": [

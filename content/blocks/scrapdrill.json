@@ -10,7 +10,7 @@
 	"rotateSpeed": 5,
 	"tier": 1,
 	"buildVisibility": "shown",
-	"research": "ancientscrap",
+	"research": "coreRemnant",
 	"alwaysUnlocked": true,
 	"requirements": [
 	"ancientscrap/10"

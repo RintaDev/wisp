@@ -7,7 +7,7 @@
 	"health": 100,
 	"breakable": true,
 	"research": {
-	"parent": "ancientscrap",
+	"parent": "coreRemnant",
 	"requirements": [
 	"ancientscrap/210"
   ]
