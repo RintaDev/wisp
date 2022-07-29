@@ -9,6 +9,7 @@ Anyways, here is my to do list.
 -Fix the gollowing issues with sectors
  -Make custom wave generation so waves arent so ridiculous
  -Figure out launch costs so you can explore all of wisa
+ -Add core: remnant generation
 -Add a custom unit factory with all types of units.
 Units will be:
  -3 of each type
@@ -18,12 +19,7 @@ Units will be:
 -Add more uses for
  -Empty Gems
  -Steel
- -Wisps of Magi
--Add the following items to be made out of scrap
- -Router
- -Wall
- -Junction 
- -Power Node
+ -Wisps of Magic
 -Add the following items made out of steel
  -Liquid Pump
  -Conduit
@@ -34,7 +30,6 @@ Units will be:
  -Better walls
  -More turrets
  -Better everything
--Add a core that can be built by the player (maybe)
 -Add a zone on serpulo that can be used to get all these items on serpulo, 
 making them accessible in the rest of the campaign. 
 -Add a zone on erekir as well
