@@ -6,16 +6,11 @@ IF YOU HAVE ANY ISSUES OR SUGGESTIONS POST IT IN ISSUES
 Anyways, here is my to do list.
 
 ==TO DO==
--Fix the gollowing issues with sectors
- -Make custom wave generation so waves arent so ridiculous
- -Figure out launch costs so you can explore all of wisa
- -Add core: remnant generation
 -Add a custom unit factory with all types of units.
 Units will be:
  -3 of each type
  -Using magic
  -One unit that costs a ridiculous amount to make but is super op.
--Fix it so sectors don't require lead and copper to launch (I think that's still a thing)
 -Add more uses for
  -Empty Gems
  -Steel
