@@ -14,9 +14,7 @@
 	"root": true,
     },
     "requirements": [
-	"steel/2500"
-	"arcgem/1300"
-	"magicwisp/2400"
+	"ancientscrap/4500"
 	]
 }
 

@@ -1,0 +1,14 @@
+winWave: 30
+difficulty: 5
+name: "The Capital"
+sector: 23
+planet: wisa
+research: {
+parent: coreRemnant
+objectives: [
+{
+type: SectorComplete
+preset: ruins
+}
+]
+}

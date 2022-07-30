@@ -287,8 +287,11 @@ wisagen.basegen = new BaseGenerator();
 wisagen.scl = 5;
 wisagen.waterOffset = 0.07;
 wisagen.water = 2 / wisagen.arr[0].length;
+Events.run(ClientLoadEvent, () => {
 
-const wisa = new Planet("wisa", Planets.serpulo, 1, 3);
+}) 
+const wisa = new Planet("wisa", Planets.tantros, 1, 1.75);
+wisa.accessible = true;
 wisa.generator = wisagen;
 wisa.meshLoader = () => new HexMesh(wisa, 5);
 wisa.orbitRadius = 25;
@@ -296,6 +299,7 @@ wisa.orbitTime = 250;
 wisa.rotateTime = 100;
 wisa.bloom = false;
 wisa.alwaysUnlocked = true;
+wisa.defaultCore = Vars.content.getByName(ContentType.block, "wisp-coreRemnant");
 wisa.startSector = 15;
 wisa.localizedName = "Wisa";
 wisa.hasAtmosphere = true;
@@ -308,6 +312,9 @@ ruins.difficulty = 5;
 ruins.captureWave = 20;
 ruins.localizedName = "The Ruins";
 ruins.alwaysUnlocked = true;
+Events.run(ClientLoadEvent, () => {
+	wisa.defaultCore = Vars.content.getByName(ContentType.block, "wisp-coreRemnant");
+})
 module.exports = {
   wisa: wisa,
   ruins: ruins
