@@ -15,11 +15,17 @@
 	 "power": 1
  	},
 	"research": {
-	"parent": "scrapdrill",
+	"parent": "steeldrill",
 	"requirements": [
 	"emptygem/100"
 	"steel/250"
   ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "The Capital"
+	}
+	]
   },
 	"requirements": [
 	"steel/23"

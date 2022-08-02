@@ -22,8 +22,14 @@
 	"research": {
     "parent": "coreRemnant",
     "requirements": [
-    "ancientscrap/150"
+    "ancientscrap/1200"
     ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: ruins
+	}
+	]
     }
 	"requirements": [
 	"ancientscrap/25"

@@ -24,8 +24,8 @@
 	"parent": "gemrefiner",
 	"requirements": [
 	"emptygem/250"
-	"magicwisp/100"
-	"steel/250"
+	"magicwisp/500"
+	"steel/500"
   ]
   },
 	"requirements": [

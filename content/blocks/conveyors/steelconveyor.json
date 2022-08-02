@@ -1,0 +1,27 @@
+{
+	"name": "[grey]Steel Conveyor",
+	"type": "Conveyor",
+	"description": "A steel distribution MACHINE",
+	"category": "distribution",
+	"buildVisibility": "shown",
+	"health": 1,
+	"speed": 0.08,
+	"breakable": true,
+	"research": {
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: ruins
+	}
+	]
+	"requirements": [
+	"steel/400"
+	]
+	"parent": "ancientscrapconveyor"
+	}
+	"alwaysUnlocked": false,
+	"requirements": [
+	"steel/1"
+	]
+}
+

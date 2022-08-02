@@ -1,0 +1,29 @@
+{
+	"name": "[purple]Arcane Node",
+	"type": "PowerNode",
+	"description": "A power node so good it must be magic! oh wait...",
+	"category": "power",
+	"buildVisibility": "shown",
+	"health": 100,
+	"breakable": true,
+	"laserRange": 20,
+	"maxNodes": 16,
+	"research": {
+	"parent": "steelnode",
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "The Capital"
+	}
+	]
+	"requirements": [
+	"arcgem/500"
+	"steel/1000"
+  ]
+  },
+	"requirements": [
+	"steel/10"
+	"arcgem/15"
+	]
+}
+

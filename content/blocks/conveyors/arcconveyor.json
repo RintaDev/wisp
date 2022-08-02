@@ -1,0 +1,27 @@
+{
+	"name": "[purple]Arcane Conveyor",
+	"type": "Conveyor",
+	"description": "Why would you ever need a conveyor this fast",
+	"category": "distribution",
+	"buildVisibility": "shown",
+	"health": 1,
+	"speed": 0.16,
+	"breakable": true,
+	"research": {
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "The Capital"
+	}
+	]
+	"requirements": [
+	"arcgem/600"
+	]
+	"parent": "steelconveyor"
+	}
+	"alwaysUnlocked": false,
+	"requirements": [
+	"arcgem/1"
+	]
+}
+

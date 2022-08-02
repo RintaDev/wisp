@@ -22,8 +22,14 @@
 	"research": {
     "parent": "steelsmelter",
     "requirements": [
-    "steel/150"
+    "steel/1500"
     ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "The Capital"
+	}
+	]
     }
 	"requirements": [
 	"steel/45"

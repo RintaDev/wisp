@@ -1,0 +1,25 @@
+{
+	"name": "[grey]Steel Wall",
+	"type": "Wall",
+	"description": "Wall made out of [grey]steel",
+	"category": "defense",
+	"buildVisibility": "shown",
+	"health": 150,
+	"breakable": true,
+	"research": {
+	"parent": "scrapwall",
+	"requirements": [
+	"steel/300"
+  ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: ruins
+	}
+	]
+  },
+	"requirements": [
+	"steel/5"
+	]
+}
+

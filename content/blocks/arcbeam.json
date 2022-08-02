@@ -30,6 +30,12 @@
 	"arcgem/250"
 	"steel/500"
   ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: ruins
+	}
+	]
   },
 	"requirements": [
 	"steel/50"

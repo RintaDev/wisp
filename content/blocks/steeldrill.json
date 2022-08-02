@@ -1,0 +1,28 @@
+{
+	"name": "[grey]Steel Drill",
+	"type": "Drill",
+	"category": "production",
+	"description": "A better drill",
+	"destructible": true,
+	"size": 2,
+	"health": 400,
+	"drillTime": 500,
+	"rotateSpeed": 6,
+	"tier": 3,
+	"buildVisibility": "shown",
+	"research": {
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "ruins"
+	}
+	]
+	"requirements": [
+	"steel/750"
+	]
+	"parent": "scrapdrill"
+	}
+	"requirements": [
+	"steel/25"
+	]
+}

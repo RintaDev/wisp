@@ -1,0 +1,27 @@
+{
+	"name": "[grey]Steel Node",
+	"type": "PowerNode",
+	"description": "Pretty decent power node",
+	"category": "power",
+	"buildVisibility": "shown",
+	"health": 75,
+	"breakable": true,
+	"laserRange": 12,
+	"maxNodes": 12,
+	"research": {
+	"parent": "scrapnode",
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "ruins"
+	}
+	]
+	"requirements": [
+	"steel/320"
+  ]
+  },
+	"requirements": [
+	"steel/10"
+	]
+}
+

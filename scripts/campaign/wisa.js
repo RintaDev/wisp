@@ -290,7 +290,7 @@ wisagen.water = 2 / wisagen.arr[0].length;
 Events.run(ClientLoadEvent, () => {
 
 }) 
-const wisa = new Planet("wisa", Planets.tantros, 1, 1.75);
+const wisa = new Planet("wisa", Planets.tantros, 1, 1);
 wisa.accessible = true;
 wisa.generator = wisagen;
 wisa.meshLoader = () => new HexMesh(wisa, 5);

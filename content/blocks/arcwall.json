@@ -10,11 +10,17 @@
 	"health": 260,
 	"breakable": true,
 	"research": {
-	"parent": "scrapwall",
+	"parent": "steelwall",
 	"requirements": [
-	"arcgem/1"
-	"steel/1"
+	"arcgem/250"
+	"steel/400"
   ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "The Capital"
+	}
+	]
   },
 	"requirements": [
 	"steel/5"

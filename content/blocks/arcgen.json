@@ -15,6 +15,12 @@
 	"arcgem/250"
 	"steel/600"
   ]
+	"objectives": [
+	{
+	type: SectorComplete
+	preset: "The Capital"
+	}
+	]
   },
 	"requirements": [
     "arcgem/50"
